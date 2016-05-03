@@ -1,0 +1,6 @@
+--Backups con -a y -v
+-a Hace un volcado solamente de datos.
+-v Especifica a detalle todas las aaciones que se realiza al extraer el backup.
+
+
+
