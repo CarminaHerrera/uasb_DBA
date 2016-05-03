@@ -1,0 +1,5 @@
+postgres=# create user admin_user PASSWORD 'admin123';
+CREATE ROLE
+postgres=# ALTER ROLE admin_user WITH SUPERUSER;
+ALTER ROLE
+postgres=# 
