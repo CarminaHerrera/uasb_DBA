@@ -1,0 +1,4 @@
+vacuumdb: vacuuming database "musicdb"
+vacuumdb: vacuuming database "musicdb_test"
+vacuumdb: vacuuming database "postgres"
+vacuumdb: vacuuming database "template1"
